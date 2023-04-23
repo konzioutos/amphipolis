@@ -1,0 +1,1 @@
+Runs with main method in Game class
